@@ -43,7 +43,7 @@ where a well-architected distributed system and a perfectly executed kata share 
 | 🥋 **Off-screen** | Karate & Boxing — because discipline doesn't clock out |
 | 🎭 **Hidden layer** | Poetry, philosophy, and the occasional verse that hits harder than a jab |
 
-> *"Ask me about GCP · AWS · Azure · Oracle · OpenStack · Kubernetes · CI/CD"*
+> *"Ask me about GCP · AWS · Oracle · OpenStack · Kubernetes · CI/CD"*
 
 ---
 
