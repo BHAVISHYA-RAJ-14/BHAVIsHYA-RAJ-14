@@ -122,7 +122,7 @@ verses written at 2am, thoughts dressed as metaphors, questions wrapped in rhyth
 > *I write what compilers can't parse —*
 > *the syntax of becoming.*
 >
-> — B.R.
+> — B.H.
 
 ---
 
